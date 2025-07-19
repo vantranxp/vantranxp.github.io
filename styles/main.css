@@ -284,30 +284,3 @@ nav a:link, nav a:visited{
    flex: 1 1 100%;
 
  }
-
-
-
-   
- }
-
-  /* tablet viewpoint of mobile */
- @media screen and (max-width: 600px) 
- {
-   /* body{
-      background-color: green;
-
-   } */
-
-header{
-      height: 50px;
-   }
-   nav ul{
-      flex-direction: column;
-   }
-
-   aside{
-      display: none;
-   }
-   
-
- }
